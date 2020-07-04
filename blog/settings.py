@@ -25,7 +25,7 @@ SECRET_KEY = '$s!*$+hn%u@o6==e!5t2nt0%f)9zppem+3d#=)nmgzzcbfxb+b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','gopitechinfo.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','gopitechinfo.herokuapp.com','test0101000000.herokuapp.com']
 
 
 # Application definition
